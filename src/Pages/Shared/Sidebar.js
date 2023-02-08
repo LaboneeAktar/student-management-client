@@ -12,7 +12,7 @@ const Sidebar = () => {
               <li className="rounded-sm">
                 <a
                   rel="noopener noreferrer"
-                  href="..."
+                  href="/addStudent"
                   className="flex items-center p-2 space-x-3 rounded-md"
                 >
                   <FaUserFriends className="text-lg" />
